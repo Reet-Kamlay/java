@@ -1,1 +1,1 @@
-f.setVisible(true);
+*
